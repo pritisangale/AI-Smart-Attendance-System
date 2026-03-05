@@ -1,6 +1,5 @@
 import cv2
 import os
-
 # Ask student name
 student_name = input("Enter student name: ")
 
